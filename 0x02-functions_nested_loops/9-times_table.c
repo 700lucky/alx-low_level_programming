@@ -2,6 +2,9 @@
 
 /**
  * times_table - prints the 9 times table, starting with 0
+ *
+ * Created by 700lucky
+ * cc; 5th july, 2022
  */
 
 void times_table(void)
