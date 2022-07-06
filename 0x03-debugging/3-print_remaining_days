@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include "main.h"
+#define leapDaysTot 366
+#define daysTot 365
+#define janDaysTot 31
+
+/**
+
